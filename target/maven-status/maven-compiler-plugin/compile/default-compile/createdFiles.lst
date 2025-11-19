@@ -1,0 +1,8 @@
+com\app\utils\DBConnection.class
+com\app\dao\UserDAO.class
+com\app\models\User.class
+com\app\listeners\AppListener.class
+com\app\controllers\MovieServlet.class
+com\app\controllers\AuthServlet.class
+com\app\dao\MovieDAO.class
+com\app\models\Movie.class

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.ebook</groupId>
+  <artifactId>ebook</artifactId>
+  <packaging>war</packaging>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>ebook Maven Webapp</name>
+  <url>http://maven.apache.org</url>
+
+<dependencies>
+    <!-- JUnit for unit testing -->
+<dependency>
+    <groupId>org.junit.jupiter</groupId>
+    <artifactId>junit-jupiter</artifactId>
+    <version>5.10.2</version>
+    <scope>test</scope>
+</dependency>
+
+
+    <!-- Servlet API -->
+    <dependency>
+        <groupId>jakarta.servlet</groupId>
+        <artifactId>jakarta.servlet-api</artifactId>
+        <version>5.0.0</version>
+        <scope>provided</scope>
+    </dependency>
+
+    <!-- Derby Embedded Driver -->
+    <dependency>
+        <groupId>org.apache.derby</groupId>
+        <artifactId>derby</artifactId>
+        <version>10.17.1.0</version>
+        <scope>runtime</scope>
+    </dependency>
+    
+    
+        <dependency>
+        <groupId>org.apache.derby</groupId>
+        <artifactId>derbytools</artifactId>
+        <version>10.17.1.0</version>
+        <scope>runtime</scope>
+    </dependency>
+</dependencies>
+
+
+  <build>
+    <finalName>ebook</finalName>
+  </build>
+</project>
