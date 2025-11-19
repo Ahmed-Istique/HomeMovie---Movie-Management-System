@@ -1,4 +1,4 @@
-<img width="605" height="278" alt="image" src="https://github.com/user-attachments/assets/0b0161d7-3179-4c9a-b606-12bf75fb2d96" /># HomeMovie---Movie-Management-System
+# HomeMovie---Movie-Management-System
 A full-stack web application built with J2EE, Servlets, and JSP. Features role-based access control, CRUD operations, and responsive Bootstrap UI. Admins manage all movies while users control their personal collections. Powered by Apache Derby and Tomcat.
 
 
@@ -106,10 +106,12 @@ mvn clean install
 **Homepage:** Dynamic movie cards by category
 
 <img width="626" height="332" alt="image" src="https://github.com/user-attachments/assets/7462fc3a-4c27-4eea-b451-e9f2e175ed34" />
+
 <img width="621" height="580" alt="image" src="https://github.com/user-attachments/assets/ebbaa4e5-4600-4ef8-abfe-c838f8752bb6" />
 
 
 **Admin Dashboard:** Full movie management table
+
 <img width="623" height="332" alt="image" src="https://github.com/user-attachments/assets/c3775f7a-0662-4106-a2f7-a92275316d0b" />
 
 
@@ -118,7 +120,9 @@ mvn clean install
 <img width="607" height="290" alt="image" src="https://github.com/user-attachments/assets/a281ee68-4ca3-4d44-a671-cf732f5fac72" />
 
 **Movie Forms:** Add/Update movie with comprehensive fields
+
 <img width="605" height="278" alt="image" src="https://github.com/user-attachments/assets/c11e8bd3-3da1-4a5d-9249-5e1a0209f43b" />
+
 <img width="605" height="290" alt="image" src="https://github.com/user-attachments/assets/5a9b06f8-c8ba-4480-826a-5e21e71cc33f" />
 
 
