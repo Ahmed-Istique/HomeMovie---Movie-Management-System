@@ -105,7 +105,13 @@ mvn clean install
 # 📸 Screenshots
 **Homepage:** Dynamic movie cards by category
 
+<img width="626" height="332" alt="image" src="https://github.com/user-attachments/assets/7462fc3a-4c27-4eea-b451-e9f2e175ed34" />
+<img width="621" height="580" alt="image" src="https://github.com/user-attachments/assets/ebbaa4e5-4600-4ef8-abfe-c838f8752bb6" />
+
+
 **Admin Dashboard:** Full movie management table
+<img width="623" height="332" alt="image" src="https://github.com/user-attachments/assets/c3775f7a-0662-4106-a2f7-a92275316d0b" />
+
 
 **User Profile:** Personal movie dashboard
 
